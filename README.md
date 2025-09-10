@@ -24,6 +24,8 @@ gh extension install https://github.com/joshbeckman/gh-pr-staleness
 
 ```bash
 gh pr-staleness <github_pr_url_or_number>
+# or, if you are on a branch that has a PR already, it will be inferred:
+gh pr-staleness
 ```
 
 ### Examples
