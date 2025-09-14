@@ -1,6 +1,6 @@
 # gh-pr-staleness
 
-A [GitHub CLI extension](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions) that calcluates the staleness (how many commits behind TARGET branch) of a pull request. This is very useful for determining which PRs are actionably mergeable, especially in highly active monorepo or merge-queue environments.
+A [GitHub CLI extension](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions) that calculates the staleness (how many commits behind TARGET branch) of a pull request. This is very useful for determining which PRs are actionably mergeable, especially in highly active monorepo or merge-queue environments.
 
 ## Installation
 
